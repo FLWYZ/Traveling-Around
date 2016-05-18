@@ -1,0 +1,9 @@
+platform :ios, '7.0'
+
+pod 'AFNetworking'
+pod 'ReactiveCocoa'
+pod 'Realm'
+pod 'Masonry'
+pod 'UMengAnalytics-NO-IDFA'
+pod 'SDWebImage'
+
